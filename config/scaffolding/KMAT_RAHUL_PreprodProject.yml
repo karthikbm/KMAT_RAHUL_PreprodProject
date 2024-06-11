@@ -7,3 +7,13 @@ packages:
   gitUrl: https://github.com/karthikbm/KMAT_RAHUL_PreprodProject
   gitUsername: karthikbm
   gitBranch: main
+- name: OriginKMAT_Jun2024
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
+- name: ApiClient
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
