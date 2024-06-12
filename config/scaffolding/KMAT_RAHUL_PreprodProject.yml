@@ -32,3 +32,11 @@ services:
   packages:
   - name: ApiClient
     version: "1.0"
+- serviceName: project.kmat_rahul_preprod.integrations:UpdateManifest_Jun12
+  packages:
+  - name: KMAT_RAHUL_PreprodProject
+    version: "1.0"
+  - name: ApiClient
+    version: "1.0"
+  - name: OriginKMAT_Jun2024
+    version: "1.0"
