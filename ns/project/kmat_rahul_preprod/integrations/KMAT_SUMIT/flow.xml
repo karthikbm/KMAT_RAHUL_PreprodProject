@@ -78,7 +78,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">8</value>
+  <value name="xml">9</value>
 </Values>
 </DATA>
 </MAPSET>
@@ -87,7 +87,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">9</value>
+  <value name="xml">12</value>
 </Values>
 </DATA>
 </MAPSET>
