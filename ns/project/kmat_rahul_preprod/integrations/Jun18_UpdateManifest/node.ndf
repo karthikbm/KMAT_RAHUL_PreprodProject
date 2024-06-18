@@ -45,8 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="lastModifiedBy">kmat</value>
-    <value name="lastModifiedDate">1718200372960</value>
+    <value name="lastModifiedBy">rahuldeb</value>
+    <value name="lastModifiedDate">1718718476331</value>
     <value name="displayName">Jun18_UpdateManifest</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -73,11 +73,6 @@
         <Boolean name="xmlMapsetSupported">true</Boolean>
         <value name="nodePathForDebug">0</value>
       </record>
-    </record>
-    <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="group">Default</value>
-      <value name="id">default</value>
-      <value name="name">Cloud Execution</value>
     </record>
   </record>
   <value name="svc_in_validator_options">none</value>
